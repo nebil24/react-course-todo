@@ -1,3 +1,14 @@
+# React course — Todo app
+
+A small React app built while following a React crash course: a todo card that opens a confirmation modal with a backdrop, built from reusable function components and `useState`.
+
+```bash
+npm install
+npm start
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
